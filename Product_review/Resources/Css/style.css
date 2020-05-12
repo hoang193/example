@@ -4,4 +4,12 @@
 
 body {
   color: #000;
-  font-family: lato; }
+  font-family: lato;
+  font-size: 1em; }
+
+body {
+  background-color: #EFF4FD; }
+
+header {
+  background-color: red;
+  height: 10px; }
